@@ -8,6 +8,9 @@ import android.view.View;
 
 import com.opencdk.da.R;
 
+/**
+ *
+ */
 public class BaseActivity extends ActionBarActivity {
 
 	@Override
