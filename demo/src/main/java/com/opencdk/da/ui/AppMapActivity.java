@@ -29,8 +29,6 @@ import com.opencdk.utils.Log;
 
 /**
  * App地图
- * 
- * @author 笨鸟不乖
  * @email benniaobuguai@gmail.com
  * @version 1.0.0
  * @since 2016-4-7

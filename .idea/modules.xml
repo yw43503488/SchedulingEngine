@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SchedulingEngine.iml" filepath="$PROJECT_DIR$/SchedulingEngine.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-dynamic-action-master.iml" filepath="$PROJECT_DIR$/android-dynamic-action-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicaction/dynamicaction.iml" filepath="$PROJECT_DIR$/dynamicaction/dynamicaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicaction/dynamicaction.iml" filepath="$PROJECT_DIR$/dynamicaction/dynamicaction.iml" />
     </modules>
   </component>
