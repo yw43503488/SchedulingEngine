@@ -4,6 +4,11 @@ import android.app.Application;
 import android.content.res.Configuration;
 import android.content.res.Resources;
 
+/**
+ * Created by yimwai on 16/6/13.
+ * Description : GApplication
+ * Version     : 1.0.0
+ */
 public class GApplication extends Application {
 
 	private static boolean mEntryFlag = false;
